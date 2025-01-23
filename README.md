@@ -22,7 +22,7 @@ This project demonstrates how to control 4 DC motors connected to an Arduino UNO
 ---
 
 ## **Circuit Diagram**
-![Circuit Diagram](circuit_diagram.png)
+![Image](https://github.com/user-attachments/assets/eedf277e-03a1-4f63-81c4-dfaa82e9caed)
 
 > **Note:** Ensure the motor driver connections match the Arduino pins as per the code. Power the motors using the external 9V battery.
 
